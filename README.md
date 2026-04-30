@@ -2,16 +2,93 @@
 
 A new Flutter project. a running text led for android.
 
-## Getting Started
+# 🔴 ACELED
 
-This project is a starting point for a Flutter application.
+ACELED adalah aplikasi **LED Running Text** berbasis Flutter yang menampilkan teks berjalan seperti papan LED digital.
 
-A few resources to get you started if this is your first Flutter project:
+Dirancang simpel, ringan, dan cocok untuk berbagai kebutuhan display teks.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Fitur Utama
+
+* 🔴 Running Text (teks berjalan)
+* 🎨 Pilihan warna teks
+* ⚡ Pengaturan kecepatan
+* 📱 Mode fullscreen (immersive)
+* 💡 Efek LED glow (cahaya)
+* ✨ Blink mode (teks kedip)
+* 🔄 Mode landscape (horizontal)
+
+---
+
+## 📸 Tampilan Aplikasi
+
+> Tambahkan screenshot di sini nanti ya 😎
+
+---
+
+## 🚀 Cara Menjalankan
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📦 Build APK
+
+```bash
+flutter build apk --release
+```
+
+Lokasi hasil build:
+
+```
+build/app/outputs/flutter-apk/app-release.apk
+```
+
+---
+
+## 🆓 Freeware & No Ads
+
+Aplikasi ini:
+
+* ✅ 100% GRATIS
+* ❌ Tidak ada iklan
+* ❌ Tidak mengumpulkan data pengguna
+* ✔ Bebas digunakan untuk kebutuhan pribadi
+
+---
+
+## 🎯 Kegunaan
+
+* Papan teks berjalan
+* Media informasi sederhana
+* Display acara / presentasi
+* LED display portable
+
+---
+
+## 🛠 Teknologi
+
+* Flutter
+* Dart
+
+---
+
+## 👨‍💻 Developer
+
+Dibuat oleh **ASEP Ace SAEPUDIN** 😎
+
+---
+
+## ⭐ Dukungan
+
+Kalau kamu suka project ini:
+
+* ⭐ Star repo ini
+* 🔁 Share ke teman
+
+---
