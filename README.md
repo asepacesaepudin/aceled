@@ -28,29 +28,6 @@ Dirancang simpel, ringan, dan cocok untuk berbagai kebutuhan display teks.
 
 ---
 
-## 🚀 Cara Menjalankan
-
-```bash
-flutter pub get
-flutter run
-```
-
----
-
-## 📦 Build APK
-
-```bash
-flutter build apk --release
-```
-
-Lokasi hasil build:
-
-```
-build/app/outputs/flutter-apk/app-release.apk
-```
-
----
-
 ## 🆓 Freeware & No Ads
 
 Aplikasi ini:
